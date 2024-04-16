@@ -2,33 +2,28 @@
     "gadgets": [
       {
         "id": 1,
-        "name": "Smartphone",
-        "price": "$500",
-        "description": "A powerful smartphone with advanced features."
+        "name": "Lenovo",
+        "price": "$500O",
       },
       {
         "id": 2,
-        "name": "Tablet",
-        "price": "$700",
-        "description": "A versatile tablet for work and entertainment."
+        "name": "HP",
+        "price": "$700O",
       },
       {
         "id": 3,
-        "name": "Smartwatch",
-        "price": "$300",
-        "description": "Stay connected with this stylish smartwatch."
+        "name": "Dell",
+        "price": "$300O",
       },
       {
         "id": 4,
-        "name": "Laptop",
-        "price": "$1000",
-        "description": "A high-performance laptop for productivity."
+        "name": "Asus",
+        "price": "$1000O",
       },
       {
         "id": 5,
-        "name": "Camera",
-        "price": "$800",
-        "description": "Capture memories with this professional camera."
+        "name": "MSI",
+        "price": "$800O",
       }
     ]
   }
